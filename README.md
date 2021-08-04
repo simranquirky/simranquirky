@@ -1,8 +1,9 @@
 
 
 <div align="center" >  
-<h3 >Hi there! 👋🤓<br>My name is Simran Kumari<br>I work on Web Development, UI/UX Designing,<br>Devops, Cloud Technologies and Automations</h3>
-
+  <img src="https://github.com/simranquirky/simranquirky/blob/main/simran-photo.jpeg" height=400>
+</div>
+<br>
   <div align="center">
 <a href="https://github.com/simranquirky" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,36 +26,50 @@
  <br>
   
 ## Technical Skills 🛠 
-<div align="center">
 
-<p align="left">
-  <h4> LANGUAGES </h4>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="50" height="50"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="50" height="50"/> 
-  <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="50" height="50"/> 
-  
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Visual%20Studio%20Code.png" alt="Visual Studio Code" width="40" height="40"/>
-
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
-
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Colab.png" alt="Google Colab" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Numpy.png" alt="Numpy" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pandas.png" alt="Pandas" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/OpenCV.jpg" alt="OpenCV" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/TensorFlow.png" alt="TensorFlow" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
-  <h4> CLOUD TECHNOLOGIES </h4>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Azure.png" alt="Azure" width="50" height="50"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/AWS.png" alt="AWS" width="50" height="50"/>
-  <h4> FRONTEND STUFF </h4>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/>
+| Languages  | Cloud Env | Frontend stuff  | Others  |
+| ------------- | ------------- |  ------------- |  ------------- | 
+| ![C](https://img.shields.io/badge/-C-000?&logo=C)  | [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)  |  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  |  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  |  
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)  | ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  |   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)  |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)  |  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  |  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)  |
+| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  |   |   |   [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)  |
+| ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  |
 
 
-  </div>
+
+
+
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+[![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) 
+
+
+
+
+
+
+
+
+ ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+ ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+ ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+ ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+ ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+ ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+ [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+ [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+
+
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+-->
+
+  <div align="center">
   
   ###    OVERVIEW
   
@@ -74,4 +89,8 @@
     
 <br>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=simranquirky&theme=tokyonight" />
+  
+  <br>  <br>
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=simranquirky&column=7&no-frame=true"/>
 
+</div>
