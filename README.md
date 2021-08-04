@@ -52,4 +52,33 @@ Here are some ideas to get you started:
 
   </div>
   
-  [![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=simranquirky)](https://github.com/simranquirky/github-readme-stats&show_icons=true&theme=radical))
+  ###    OVERVIEW
+  
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=simranquirky&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
+
+<br><br>
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simranquirky&layout=compact&theme=radical" />
+
+  
+##
+<em><b>Would love to connect</b>💜</em>
+
+
+<div align="center">
+<a href="https://github.com/simranquirky" target="_blank" style="margin-left: 5px;">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100029425296283" target="_blank" style="margin-left: 5px;">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@simrankumari1344" target="_blank" style="margin-left: 5px;">
+  <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/simran-kumari-810212190/" target="_blank" style="margin-left: 5px;">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/quirky_simran/" target="_blank" style="margin-left: 5px;">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
