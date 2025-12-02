@@ -1,8 +1,8 @@
 
 
-<div align="center" >  
+<!-- <div align="center" >  
   <img src="https://github.com/simranquirky/simranquirky/blob/main/simran-photo.jpeg" height=400>
-</div>
+</div> -->
 <br>
   <div align="center">
 <a href="https://github.com/simranquirky" target="_blank" style="margin-left: 5px;">
@@ -16,10 +16,6 @@
 </a>
 <a href="https://www.linkedin.com/in/simran-kumari-810212190/" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/quirky_simran/" target="_blank" style="margin-left: 5px;">
-<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 
 <!--technical skills-->
 <br>
@@ -82,15 +78,5 @@
 <br>
   
 <!-- Contribution Graph -->
-
-<br>
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=simranquirky&theme=xcode" /></p>
-    
-    
-<br>
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=simranquirky&theme=tokyonight" />
-  
-  <br>  <br>
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=simranquirky&column=7&no-frame=true"/>
-
+ 
 </div>
